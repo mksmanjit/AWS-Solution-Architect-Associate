@@ -1,1 +1,1 @@
-AWS Solution Architect Preparation.
+AWS Solution Architect Preparation
